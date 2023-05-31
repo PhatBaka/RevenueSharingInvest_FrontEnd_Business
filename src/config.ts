@@ -34,7 +34,7 @@ export const firebaseConfigSecondary = {
 };
 export const REACT_APP_API_URL =
   // 'https://ec2-13-215-197-250.ap-southeast-1.compute.amazonaws.com/api/v1.0';
-  'http://krowd-investment-api.reso.vn/api/v1.0/';
+  'http://krowd-investment-api.reso.vn/api/v1.0';
 
 export const cognitoConfig = {
   userPoolId: process.env.REACT_APP_AWS_COGNITO_USER_POOL_ID,
